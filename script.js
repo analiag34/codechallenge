@@ -1,5 +1,5 @@
 function enviarData () {
-    let nombre = document.getElementById('nombre').value;
+let nombre = document.getElementById('nombre').value;
 let apellido = document.getElementById('apellido').value;
 let fecha = document.getElementById('date').value;
 let datos = {
