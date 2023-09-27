@@ -1,0 +1,23 @@
+body{
+    background-color: mistyrose;
+}
+div{
+    border: 3px solid pink;
+    width: 185px;
+    height: 265px;
+    padding: 8px;
+}
+main {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+
+h1 {
+    color: palevioletred;
+    font-size: 50px;
+}
